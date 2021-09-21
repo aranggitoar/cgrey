@@ -1,5 +1,5 @@
 # cgrey
-A clean grey colorscheme for vim.
+A clean grey color scheme for vim.
 
 Every color has its `cterm` equivalent, so it should look the same anywhere.
 
@@ -9,7 +9,7 @@ Every color has its `cterm` equivalent, so it should look the same anywhere.
 
 Add this to your `vimrc`:
 
-```vim
+```vimrc
 Plug 'aranggitoar/cgrey'
 ```
 
@@ -23,7 +23,7 @@ Copy the contents of `colors` folder to your vim `colors` folder, by default its
 
 Once installed, add this to your `vimrc` to activate:
 
-```vim
+```vimrc
 colorscheme cgrey
 " Or
 colorscheme cgrey-tr
