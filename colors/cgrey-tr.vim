@@ -57,7 +57,7 @@ hi IncSearch       ctermfg=233        ctermbg=231    cterm=NONE    guifg=#121212
 " - Prompt/Status -
 " -----------------
 hi StatusLine      ctermfg=231        ctermbg=NONE    cterm=NONE    guifg=#FFFFFF    guibg=NONE    gui=NONE
-hi StatusLineNC    ctermfg=231        ctermbg=NONE    cterm=NONE    guifg=#3A3A3A    guibg=NONE    gui=NONE
+hi StatusLineNC    ctermfg=237        ctermbg=NONE    cterm=NONE    guifg=#3A3A3A    guibg=NONE    gui=NONE
 hi WildMenu        ctermfg=231        ctermbg=NONE    cterm=NONE    guifg=#FFFFFF    guibg=NONE    gui=NONE
 hi Question        ctermfg=250				ctermbg=NONE    cterm=NONE    guifg=#BCBCBC    guibg=NONE    gui=NONE
 hi Title           ctermfg=250        ctermbg=NONE    cterm=NONE    guifg=#BCBCBC    guibg=NONE    gui=NONE
@@ -150,3 +150,11 @@ hi SpellBad        ctermfg=231				ctermbg=NONE    cterm=NONE    guifg=#FFFFFF   
 hi SpellCap        ctermfg=250    		ctermbg=NONE    cterm=NONE    guifg=#BCBCBC    guibg=NONE    gui=NONE
 hi SpellLocal      ctermfg=250    		ctermbg=NONE    cterm=NONE    guifg=#BCBCBC    guibg=NONE    gui=NONE
 hi SpellRare       ctermfg=250    		ctermbg=NONE    cterm=NONE    guifg=#BCBCBC    guibg=NONE    gui=NONE
+
+" --------------------------------
+" Etc
+" --------------------------------
+hi RedrawDebugClear			ctermfg=233 	guifg=#121212
+hi RedrawDebugComposed	ctermfg=233 	guifg=#121212
+hi RedrawDebugRecompose ctermfg=233 	guifg=#121212
+hi NvimInternalError		ctermfg=233		guifg=#121212

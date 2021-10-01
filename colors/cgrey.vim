@@ -40,7 +40,7 @@ hi Folded          ctermfg=237     		ctermbg=233    cterm=NONE    guifg=#3A3A3A 
 " -------------------------
 " - Window/Tab delimiters -
 " -------------------------
-hi VertSplit       ctermfg=233        ctermbg=233    cterm=NONE    guifg=#121212    guibg=#121212    gui=NONE
+hi VertSplit       ctermfg=231        ctermbg=233    cterm=NONE    guifg=#FFFFFF    guibg=#121212    gui=NONE
 hi ColorColumn     ctermfg=233        ctermbg=233    cterm=NONE    guifg=#121212    guibg=#121212    gui=NONE
 hi TabLine         ctermfg=237        ctermbg=233    cterm=NONE    guifg=#3A3A3A    guibg=#121212    gui=NONE
 hi TabLineFill     ctermfg=233        ctermbg=233    cterm=NONE    guifg=#121212    guibg=#121212    gui=NONE
@@ -57,7 +57,7 @@ hi IncSearch       ctermfg=233        ctermbg=231    cterm=NONE    guifg=#121212
 " - Prompt/Status -
 " -----------------
 hi StatusLine      ctermfg=231        ctermbg=233    cterm=NONE    guifg=#FFFFFF    guibg=#121212    gui=NONE
-hi StatusLineNC    ctermfg=231        ctermbg=233    cterm=NONE    guifg=#3A3A3A    guibg=#121212    gui=NONE
+hi StatusLineNC    ctermfg=237        ctermbg=233    cterm=NONE    guifg=#3A3A3A    guibg=#121212    gui=NONE
 hi WildMenu        ctermfg=231        ctermbg=233    cterm=NONE    guifg=#FFFFFF    guibg=#121212    gui=NONE
 hi Question        ctermfg=250				ctermbg=233    cterm=NONE    guifg=#BCBCBC    guibg=#121212    gui=NONE
 hi Title           ctermfg=250        ctermbg=233    cterm=NONE    guifg=#BCBCBC    guibg=#121212    gui=NONE
@@ -150,3 +150,11 @@ hi SpellBad        ctermfg=231				ctermbg=233    cterm=NONE    guifg=#FFFFFF    
 hi SpellCap        ctermfg=250    		ctermbg=233    cterm=NONE    guifg=#BCBCBC    guibg=#121212    gui=NONE
 hi SpellLocal      ctermfg=250    		ctermbg=233    cterm=NONE    guifg=#BCBCBC    guibg=#121212    gui=NONE
 hi SpellRare       ctermfg=250    		ctermbg=233    cterm=NONE    guifg=#BCBCBC    guibg=#121212    gui=NONE
+
+" --------------------------------
+" Etc
+" --------------------------------
+hi RedrawDebugClear			ctermfg=233 	guifg=#121212
+hi RedrawDebugComposed	ctermfg=233 	guifg=#121212
+hi RedrawDebugRecompose ctermfg=233 	guifg=#121212
+hi NvimInternalError		ctermfg=233		guifg=#121212
