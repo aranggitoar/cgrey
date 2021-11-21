@@ -40,7 +40,7 @@ hi Folded          ctermfg=237     		ctermbg=233    cterm=NONE    guifg=#3A3A3A 
 " -------------------------
 " - Window/Tab delimiters -
 " -------------------------
-hi VertSplit       ctermfg=231        ctermbg=233    cterm=NONE    guifg=#FFFFFF    guibg=#121212    gui=NONE
+hi VertSplit       ctermfg=233        ctermbg=233    cterm=NONE    guifg=#121212    guibg=#121212    gui=NONE
 hi ColorColumn     ctermfg=233        ctermbg=233    cterm=NONE    guifg=#121212    guibg=#121212    gui=NONE
 hi TabLine         ctermfg=237        ctermbg=233    cterm=NONE    guifg=#3A3A3A    guibg=#121212    gui=NONE
 hi TabLineFill     ctermfg=233        ctermbg=233    cterm=NONE    guifg=#121212    guibg=#121212    gui=NONE
@@ -70,7 +70,7 @@ hi MoreMsg         ctermfg=231        ctermbg=233    cterm=NONE    guifg=#FFFFFF
 hi MatchParen      ctermfg=231        ctermbg=233     cterm=NONE    guifg=#FFFFFF    guibg=#121212   gui=NONE
 hi Visual          ctermfg=250        ctermbg=237     cterm=NONE    guifg=#BCBCBC    guibg=#3A3A3A    gui=NONE
 hi VisualNOS       ctermfg=250        ctermbg=237     cterm=NONE    guifg=#BCBCBC    guibg=#3A3A3A    gui=NONE
-hi NonText         ctermfg=233        ctermbg=233     cterm=NONE    guifg=#121212    guibg=#121212    gui=NONE
+hi NonText         ctermfg=237        ctermbg=233     cterm=NONE    guifg=#3A3A3A    guibg=#121212    gui=NONE
 
 hi Todo            ctermfg=250        ctermbg=233    cterm=NONE    guifg=#BCBCBC    guibg=#121212    gui=NONE
 hi Underlined      ctermfg=250        ctermbg=233    cterm=NONE    guifg=#BCBCBC    guibg=#121212    gui=NONE

@@ -70,7 +70,7 @@ hi MoreMsg         ctermfg=231        ctermbg=NONE    cterm=NONE    guifg=#FFFFF
 hi MatchParen      ctermfg=231        ctermbg=NONE     cterm=NONE    guifg=#FFFFFF    guibg=NONE			 gui=NONE
 hi Visual          ctermfg=250        ctermbg=237      cterm=NONE    guifg=#BCBCBC    guibg=#3A3A3A    gui=NONE
 hi VisualNOS       ctermfg=250        ctermbg=237      cterm=NONE    guifg=#BCBCBC    guibg=#3A3A3A    gui=NONE
-hi NonText         ctermfg=233        ctermbg=NONE     cterm=NONE    guifg=#121212    guibg=NONE			 gui=NONE
+hi NonText         ctermfg=237        ctermbg=NONE     cterm=NONE    guifg=#3A3A3A    guibg=NONE			 gui=NONE
 
 hi Todo            ctermfg=250        ctermbg=NONE    cterm=NONE    guifg=#BCBCBC    guibg=NONE    gui=NONE
 hi Underlined      ctermfg=250        ctermbg=NONE    cterm=NONE    guifg=#BCBCBC    guibg=NONE    gui=NONE
